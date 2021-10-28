@@ -1,5 +1,4 @@
 import sys
-from operator import itemgetter
 
 sys.stdin=open("input.txt", "rt")
 
