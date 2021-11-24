@@ -13,6 +13,11 @@ for x in word2:
 word1_list.sort()
 word2_list.sort()
 
+if word1_list == word2_list:
+    print('YES')
+else:
+    print('NO')
+    
 # Method Lecture(Dictionary)
 a = input()
 b = input()
